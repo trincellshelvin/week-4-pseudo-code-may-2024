@@ -30,15 +30,15 @@ of having a pair of the same color?
 
 I. Declarations (use let to declare variables):
 
-Let n be ____.     
+Let n be 2.     
 
 II. Result:
 
-Given n, the result is _______.
+Given n, the result is 3.
 
 III. Description/Discussion
 
-Since there are....Therefore....
+Since there are 2 colors...Therefore....you pull 3 times to get a possible pair.
 
 
 ## Turn in
