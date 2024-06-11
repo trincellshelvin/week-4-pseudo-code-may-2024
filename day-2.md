@@ -44,7 +44,7 @@ For each of these problems write a BOOLEAN CONDITIONAL EXPRESSION that will dete
 
 5. Edward has $99.00. He has 39 friends and wants to buy himself and all his friends pistachio. Can he afford it? Explain. Hint let e be how much money Edward has. Hint: let e be how much money Edward has.
 
-(Medium problems)
+### Medium problems
 
 1. Write a mathematical function showing how many pistachio cones a person can buy for a given amount of money. Hint: Let x be the amount of money someone has. Let y be the number of cones that can be had for the amount of money. (In Algebra, this is called a linear function.)
 
