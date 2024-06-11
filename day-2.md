@@ -44,19 +44,19 @@ For each of these problems write a BOOLEAN CONDITIONAL EXPRESSION that will dete
 
 5. Edward has $99.00. He has 39 friends and wants to buy himself and all his friends pistachio. Can he afford it? Explain. Hint let e be how much money Edward has. Hint: let e be how much money Edward has.
 
-### Medium problems (Bonus)
+(Medium problems)
 
-1. Write a mathematical function showing how many pistachio cones a person can buy for a given amount of money. Hint: Let x be the amount of money someone has. Let y be the number of cones that can be had for the amount of money.
+1. Write a mathematical function showing how many pistachio cones a person can buy for a given amount of money. Hint: Let x be the amount of money someone has. Let y be the number of cones that can be had for the amount of money. (In Algebra, this is called a linear function.)
 
 2. Write a mathematical function showing how many chocolate cones a person can buy for a given amount of money. Hint: Let x be the amount of money someone has. Let y be the number of cones that can be had for the amount of money.
 
-3. Draw a graph of these functions on a xy axis.
+3. Draw a graph of these functions on a xy axis. (Try using Desmos.com or drawing it on paper.)
 
 4. (Bonus) What if someone wants a double scoop one-of-each-kind? A double scoop gets a $0.10 discount since you don't have to buy the cone. Find the mathematical function and draw a graph on the xy axis.
 
-5. (Bonus) What if someone wants a triple scoop? Can you represent this with a single mathematical function, or do you need more than one? Find out and draw a graph on the xy axis.
+5. (Bonus) What if someone wants a triple scoop? Can you represent this with a single mathematical function, or do you need more than one function? Draw the function(s) a graph on the xy axis.
 
-### Harder problems
+### Harder problems (Bonus)
 
 1. (Bonus) Go back to your problems with Andy, Betty, Cathy, Debby and Edward. If they can't afford their desired amount they will walk away and not buy anything. How much total money will the ice cream shop make from these five people?
 
